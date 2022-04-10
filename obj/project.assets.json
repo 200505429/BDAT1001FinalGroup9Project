@@ -10015,19 +10015,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yashe\\.nuget\\packages\\": {}
+    "C:\\Users\\91981\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yashe\\OneDrive\\Desktop\\final6\\ContactManager.csproj",
+      "projectUniqueName": "D:\\GEORGIAN\\Encoding\\FinalProjectBDAT1001\\FinalProjectBDAT1001\\ContactManager.csproj",
       "projectName": "ContactManager",
-      "projectPath": "C:\\Users\\yashe\\OneDrive\\Desktop\\final6\\ContactManager.csproj",
-      "packagesPath": "C:\\Users\\yashe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yashe\\OneDrive\\Desktop\\final6\\obj\\",
+      "projectPath": "D:\\GEORGIAN\\Encoding\\FinalProjectBDAT1001\\FinalProjectBDAT1001\\ContactManager.csproj",
+      "packagesPath": "C:\\Users\\91981\\.nuget\\packages\\",
+      "outputPath": "D:\\GEORGIAN\\Encoding\\FinalProjectBDAT1001\\FinalProjectBDAT1001\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\yashe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\91981\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10102,7 +10102,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
